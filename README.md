@@ -1,0 +1,2 @@
+# workspace
+Default workspace folder
